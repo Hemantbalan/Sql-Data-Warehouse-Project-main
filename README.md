@@ -84,4 +84,4 @@ data-warehouse-project/
 ---
 ## 🌟About Me
 
-Hey there! I'm Himanshu — a Data Analyst passionate about uncovering insights and transforming data into strategy
+Hey there! I'm Hemant Balan — a Data Analyst passionate about uncovering insights and transforming data into strategy
